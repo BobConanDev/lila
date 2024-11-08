@@ -33,13 +33,13 @@ public/images/staunton | [James Clarke](https://github.com/clarkerubber/Staunton
 public/images/staunton/piece/CubesAndPi | CubesAndPi | AGPLv3+
 public/images/trophy | [James Clarke](https://github.com/clarkerubber/Staunton-Pieces/tree/master/Trophies) | [MIT](https://github.com/clarkerubber/Staunton-Pieces/blob/master/LICENSE)
 public/images/flags | [Go Squared Ltd.](https://www.gosquared.com/resources/flag-icons/) | [MIT](https://github.com/gosquared/flags/blob/master/LICENSE.txt)
-public/images/board | the lila authors and [pirouetti](https://lichess.org/@/pirouetti) | AGPLv3+
+public/images/board | the lila authors and [pirouette](https://lichess.org/@/pirouette) | AGPLv3+
 public/images/learn/pieces | Thibault Duplessis and [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) | [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
 public/piece/mono | Thibault Duplessis and [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) | [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
 public/piece/cburnett | [Colin M.L. Burnett](https://en.wikipedia.org/wiki/User:Cburnett) | [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
 public/piece/chessnut | [Alexis Luengas](https://github.com/LexLuengas) | [Apache 2.0](https://github.com/LexLuengas/chessnut-pieces/blob/master/LICENSE.txt)
 public/piece/letter | [usolando](https://lichess.org/@/usolando) | AGPLv3+
-public/piece/pirouetti | [pirouetti](https://lichess.org/@/pirouetti) | AGPLv3+
+public/piece/pirouette | [pirouette](https://lichess.org/@/pirouette) | AGPLv3+
 public/piece/merida | Armando Hernandez Marroquin | [GPLv2+](https://www.gnu.org/licenses/gpl-2.0.txt)
 public/piece/shapes | [flugsio](https://github.com/flugsio/chess_shapes) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 public/piece/pixel | [therealqtpi](https://twitter.com/therealqtpi) | AGPLv3+
